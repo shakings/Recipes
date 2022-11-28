@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
     if you require any assistance (https://support.solarwinds.com/SuccessCenter/s/article/Back-up-and-restore-SQL-database-instance-using-a-BAK-file?language=en_US)
 
 ### Configure API ConnetionStrings
-The gStringKustomGuitars.Api will be the project where the connectionString will be required to be configured.
+The Recipes Web-Api will be the project where the connectionString will be required to be configured.
 
 The appsettings.json file can be found in the project of the API.
 
