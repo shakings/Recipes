@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Q54QoOx400SSmWRrPSRm/zX2HRyRCV5HojvMJmvwXTMxjd7gfCdt5bItFtsOWHm0k58GC7NfkcGh+pToaNvLA==",
+  "success": true,
+  "projectFilePath": "C:\\FruitSA\\Recipes-API\\recipes.models\\Recipes.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephen Engelbrecht\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Stephen Engelbrecht\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
