@@ -2,7 +2,7 @@
 
 I've build an web application to manage a list of recipes using VueJs & Web-Api.
 The Recipes portal have been design on the microsoft .NET Core Platfrom. The web application consist of GUI, API, MSSQL 
-Visual Studio 2022 was used to build the application.
+Visual Studio 2022 & Visual Studio Code was used to build the application.
 
 # Overview Diagram
 
